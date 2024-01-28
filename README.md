@@ -1,2 +1,2 @@
 # coordplot
-This is the repo for coordplot
+This is the test repo for coordplot
